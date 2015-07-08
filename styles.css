@@ -1,1 +1,70 @@
 
+body {
+
+}
+
+img {
+	height:137px;
+	width: 137px;
+}
+
+.master {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.intro {
+	text-align: left;
+	font-size: 150%;
+}
+
+.mission {
+	margin-bottom: 20px;
+}
+
+.description {
+	margin-bottom: 20px;
+}
+
+ a {
+ 	text-decoration: none;
+ }
+
+.welcome {
+	text-align: right;
+	font-weight: bold;
+}
+
+.ulParent {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+.ulParent ul li{
+	padding-left: 6%;
+	padding-right: 6%;
+}
+
+.ulParent ul {
+	padding-left: 0px;
+}
+
+li {
+	display: inline-block;
+}
+
+footer {
+	font-size: 90%;
+	width: 75%;
+	text-align: center;
+	margin-left: 116px;
+}
+
+footer ul {
+	padding-left:0;
+}
+
+footer ul li {
+	margin-right:20px;
+	margin-left:20px;
+}
